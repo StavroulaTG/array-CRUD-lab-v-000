@@ -12,7 +12,6 @@ end
 
 def add_element_to_start_of_array(array, element)
   array.unshift("wow")
-
 end
 
 def remove_element_from_end_of_array(array)
@@ -33,5 +32,4 @@ end
 
 def retrieve_last_element_from_array(array)
   array.last
-
 end
